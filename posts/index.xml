@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Cole World</title>
+		<link>https://colemei.github.io/posts/</link>
+		<description>Recent content in Posts on Cole World</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Mon, 02 Jan 2023 14:56:19 +0800</lastBuildDate>
+		<atom:link href="https://colemei.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Blog</title>
+			<link>https://colemei.github.io/posts/blog/</link>
+			<pubDate>Mon, 02 Jan 2023 14:56:19 +0800</pubDate>
+			
+			<guid>https://colemei.github.io/posts/blog/</guid>
+			<description>Hello Hugo! </description>
+			<content type="html"><![CDATA[<h3 id="hello-hugo">Hello Hugo!</h3>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
