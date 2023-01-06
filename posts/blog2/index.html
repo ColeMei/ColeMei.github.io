@@ -8,60 +8,18 @@
 	<meta name="theme-color" content="#494f5c">
 	<meta name="msapplication-TileColor" content="#494f5c">
 <meta itemprop="name" content="Running Pentaho Data Integration on Mac bigSur (M1)">
-<meta itemprop="description" content="关于在M1 Mac 上安装部署PDI(kettle) 前言 截止我编写这篇笔记之时，Kettle并没有原生支持M1，所以本文大致思路是使用Rosetta转译运行，无需借助任何虚拟机。
-安装步骤 配置Rosetta Terminal（强制在Intel模式下运行shell） 参考 https://cutecoder.org/software/run-command-line-apple-silicon/
-打开Terminal终端的 偏好设置 → 描述文件
-从左侧选择一个你喜欢的shell → 下方省略号 → 复制描述文件
-点击新的描述文件 给它起一个好听的名字 就像“Rosetta Shell”
-右侧点击 窗口 再给它起一个好听的标题 就像“Terminal (Intel)”
-点击 shell 运行命令处写入以下 并取消勾选 在shell中运行
-env /usr/bin/arch -x86_64 ``/bin/zsh --login
-(可选) 将该shell设置为默认
-安装 Homebrew 在arm64架构中 我们需要做两种Homebrew的安装
-/usr/local/homebrew —— 服务于传统intel安装路径
-/opt/homebrew —— 服务于已原生支持Apple Silicon的包
-打开刚配置好的Rosetta Shell
-输入以下几行命令：
-cd /usr/local sudo mkdir homebrew sudo chgrp admin homebrew sudo chmod g&#43;rwx homebrew curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew 在 ～/."><meta itemprop="datePublished" content="2021-07-10T16:47:33+08:00" />
+<meta itemprop="description" content="关于在M1 Mac 上安装部署PDI(kettle) 前言 截止我编写这篇笔记之时，Kettle并没有原生支持M1，所以本文大致思路是使用Rosetta"><meta itemprop="datePublished" content="2021-07-10T16:47:33+08:00" />
 <meta itemprop="dateModified" content="2021-07-10T16:47:33+08:00" />
-<meta itemprop="wordCount" content="289">
+<meta itemprop="wordCount" content="1326">
 <meta itemprop="keywords" content="Big data,Java," /><meta property="og:title" content="Running Pentaho Data Integration on Mac bigSur (M1)" />
-<meta property="og:description" content="关于在M1 Mac 上安装部署PDI(kettle) 前言 截止我编写这篇笔记之时，Kettle并没有原生支持M1，所以本文大致思路是使用Rosetta转译运行，无需借助任何虚拟机。
-安装步骤 配置Rosetta Terminal（强制在Intel模式下运行shell） 参考 https://cutecoder.org/software/run-command-line-apple-silicon/
-打开Terminal终端的 偏好设置 → 描述文件
-从左侧选择一个你喜欢的shell → 下方省略号 → 复制描述文件
-点击新的描述文件 给它起一个好听的名字 就像“Rosetta Shell”
-右侧点击 窗口 再给它起一个好听的标题 就像“Terminal (Intel)”
-点击 shell 运行命令处写入以下 并取消勾选 在shell中运行
-env /usr/bin/arch -x86_64 ``/bin/zsh --login
-(可选) 将该shell设置为默认
-安装 Homebrew 在arm64架构中 我们需要做两种Homebrew的安装
-/usr/local/homebrew —— 服务于传统intel安装路径
-/opt/homebrew —— 服务于已原生支持Apple Silicon的包
-打开刚配置好的Rosetta Shell
-输入以下几行命令：
-cd /usr/local sudo mkdir homebrew sudo chgrp admin homebrew sudo chmod g&#43;rwx homebrew curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew 在 ～/." />
+<meta property="og:description" content="关于在M1 Mac 上安装部署PDI(kettle) 前言 截止我编写这篇笔记之时，Kettle并没有原生支持M1，所以本文大致思路是使用Rosetta" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://colemei.github.io/posts/blog2/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2021-07-10T16:47:33+08:00" />
 <meta property="article:modified_time" content="2021-07-10T16:47:33+08:00" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Running Pentaho Data Integration on Mac bigSur (M1)"/>
-<meta name="twitter:description" content="关于在M1 Mac 上安装部署PDI(kettle) 前言 截止我编写这篇笔记之时，Kettle并没有原生支持M1，所以本文大致思路是使用Rosetta转译运行，无需借助任何虚拟机。
-安装步骤 配置Rosetta Terminal（强制在Intel模式下运行shell） 参考 https://cutecoder.org/software/run-command-line-apple-silicon/
-打开Terminal终端的 偏好设置 → 描述文件
-从左侧选择一个你喜欢的shell → 下方省略号 → 复制描述文件
-点击新的描述文件 给它起一个好听的名字 就像“Rosetta Shell”
-右侧点击 窗口 再给它起一个好听的标题 就像“Terminal (Intel)”
-点击 shell 运行命令处写入以下 并取消勾选 在shell中运行
-env /usr/bin/arch -x86_64 ``/bin/zsh --login
-(可选) 将该shell设置为默认
-安装 Homebrew 在arm64架构中 我们需要做两种Homebrew的安装
-/usr/local/homebrew —— 服务于传统intel安装路径
-/opt/homebrew —— 服务于已原生支持Apple Silicon的包
-打开刚配置好的Rosetta Shell
-输入以下几行命令：
-cd /usr/local sudo mkdir homebrew sudo chgrp admin homebrew sudo chmod g&#43;rwx homebrew curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew 在 ～/."/>
+<meta name="twitter:description" content="关于在M1 Mac 上安装部署PDI(kettle) 前言 截止我编写这篇笔记之时，Kettle并没有原生支持M1，所以本文大致思路是使用Rosetta"/>
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -281,7 +239,7 @@ cd /usr/local sudo mkdir homebrew sudo chgrp admin homebrew sudo chmod g&#43;rwx
 				<p>
 					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://colemei.github.io/tags/big-data">Big data</a></span><span class="tag"><a href="https://colemei.github.io/tags/java">Java</a></span>
 				</p>
-				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>289 Words</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>1326 Words</p>
 				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2021-07-10 16:47 &#43;0800</p>
 			</footer>
 		</article>
