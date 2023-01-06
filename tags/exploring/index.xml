@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exploring on Cole World</title>
+    <link>https://colemei.github.io/tags/exploring/</link>
+    <description>Recent content in Exploring on Cole World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 10 Jul 2021 16:47:33 +0800</lastBuildDate><atom:link href="https://colemei.github.io/tags/exploring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running Pentaho Data Integration on Mac bigSur (M1)</title>
+      <link>https://colemei.github.io/posts/blog2/</link>
+      <pubDate>Sat, 10 Jul 2021 16:47:33 +0800</pubDate>
+      
+      <guid>https://colemei.github.io/posts/blog2/</guid>
+      <description>关于在M1 Mac 上安装部署PDI(kettle) 前言 截止我编写这篇笔记之时，Kettle并没有原生支持M1，所以本文大致思路是使用Rosetta</description>
+    </item>
+    
+  </channel>
+</rss>
