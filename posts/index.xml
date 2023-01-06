@@ -15,9 +15,14 @@
 			<pubDate>Mon, 02 Jan 2023 14:56:19 +0800</pubDate>
 			
 			<guid>https://colemei.github.io/posts/blog1/</guid>
-			<description>Hello Hugo! </description>
+			<description>Hello Hugo! The world’s fastest framework for building websites</description>
 			<content type="html"><![CDATA[<h3 id="hello-hugo">Hello Hugo!</h3>
-<p><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/IMG_3347.JPG" alt="Cole"></p>
+<figure><img src="https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg"
+         alt="image"/><figcaption>
+            <p>The world’s fastest framework for building websites</p>
+        </figcaption>
+</figure>
+
 ]]></content>
 		</item>
 		
