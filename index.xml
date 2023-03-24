@@ -6,34 +6,6 @@
     <description>Recent content on Cole World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 02 Jan 2023 14:56:19 +0800</lastBuildDate><atom:link href="https://colemei.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://colemei.github.io/about-hugo/</link>
-      <pubDate>Mon, 02 Jan 2023 16:20:28 +0800</pubDate>
-      
-      <guid>https://colemei.github.io/about-hugo/</guid>
-      <description>レイチェル・ガードナー/レイ I’m Cole, 21-year old. I lived in Beijing, China with a whole bunch of digital products and all of my memories in this old but lovely house. More Info I consider myself a geeky person, but I don&amp;rsquo;t want to define my future as a programmer in some traditional sense. After all, my major</description>
-    </item>
-    
-    <item>
-      <title>This is my first blog</title>
-      <link>https://colemei.github.io/posts/blog1/</link>
-      <pubDate>Mon, 02 Jan 2023 14:56:19 +0800</pubDate>
-      
-      <guid>https://colemei.github.io/posts/blog1/</guid>
-      <description>Hello Hugo! The world’s fastest framework for building websites</description>
-    </item>
-    
-    <item>
-      <title>Running Pentaho Data Integration on Mac bigSur (M1)</title>
-      <link>https://colemei.github.io/posts/blog2/</link>
-      <pubDate>Sat, 10 Jul 2021 16:47:33 +0800</pubDate>
-      
-      <guid>https://colemei.github.io/posts/blog2/</guid>
-      <description>关于在M1 Mac 上安装部署PDI(kettle) 前言 截止我编写这篇笔记之时，Kettle并没有原生支持M1，所以本文大致思路是使用Rosetta</description>
-    </item>
-    
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://colemei.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
