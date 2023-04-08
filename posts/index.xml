@@ -16,7 +16,7 @@
 			
 			<guid>https://colemei.github.io/posts/blog3/</guid>
 			<description>1. Source 首先，我们来聊聊信息的来源，开门见山，我获取英文信息的渠道基本如下： 杂志报刊 Newsletter 其他(Reddit, Youtube etc.) 杂志报刊 如果你选的是一些比较有名气</description>
-			<content type="html"><![CDATA[<h1 id="1-source">1. Source</h1>
+			<content type="html"><![CDATA[<h2 id="1-source">1. Source</h2>
 <p>首先，我们来聊聊信息的来源，开门见山，我获取英文信息的渠道基本如下：</p>
 <ul>
 <li><em>杂志报刊</em></li>
@@ -95,8 +95,48 @@
 
 <p>总觉得自己一直不能很有效的把Mail这个工具利用起来，知道newsletter也是最近一两年的事情。不知道是不是国内外的差异，newsletter就像是Podcast一样在国内<strong>不温不火</strong>，基本还是以RSS订阅独立blog的方式为主，也有可能是我还没有进入工作的原因吧，邮箱的利用率本身也不高，我们学院甚至导师甚至不知道有<strong>学生邮箱stu.edu</strong>这个东西的存在，还是我去信息中心自己申请开通的。</p>
 <p>无论如何，Mail无论是工具本身还是其所链接的生态都是<strong>高度稳定可靠</strong>的，拿Mac自带的Mail客户端讲，利用好它的规则工具可以很方便的自动化你的收件流程，像我的newsletter通过发件地址的识别都会通过规则自动进入一个单独的分组，这样就不会与其他乱七八糟的邮件混在一起。另外善用**标记(Flag)<strong>和</strong>移动(Move)**也算是一个小技巧吧。</p>
-<h1 id="2-read">2. Read</h1>
-<h1 id="3-collection">3. Collection</h1>
+<h2 id="2-read">2. Read</h2>
+<p>讲完了有关如何收集信息的事情，下面我们回到阅读本身，我将我的阅读分为两种，不过思来想去，还是觉得不能简单划分为精读和粗读这样泾渭分明的简单定义，因为其实我读的都挺认真的。可能从阅读的目的或者说是侧重点来讲会更好，第一种阅读是偏向于英语语料的积累和语感的培养，另一种则是以信息的获取为首要目的的阅读。来看看我是如何阅读的吧。</p>
+<h3 id="type-1">Type 1</h3>
+<blockquote>
+<p>工具：PDF Experts + Eudic</p>
+</blockquote>
+<p>在这一类阅读中，材料通常是从各大报刊杂志中挑选出的某一篇文章，从体裁上看，news较少，一般是<strong>比较感兴趣的领域的Article</strong>，文章篇幅较长。首先在当期issue的PDF文件中剪切出文章篇幅所在的那几页另存为一个新的PDF文件，以「 精读外刊 序号 + 文章标题 」的方式命名，然后在PDF Experts中打开，<strong>iPad分屏，左三分之二屏幕是文章，右三分之一是Eudic词典</strong>，然后就可以开始阅读啦。</p>
+<figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/06.jpeg"
+         alt="image"/><figcaption>
+            <p>如何阅读</p>
+        </figcaption>
+</figure>
+
+<figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/07.jpeg"
+         alt="image"/><figcaption>
+            <p>如何阅读</p>
+        </figcaption>
+</figure>
+
+<p>在阅读的过程中，我会对各种词汇句子作<strong>勾画标注和分类区分</strong>:</p>
+<ul>
+<li><em>比如对于词汇来说，用<strong>highlight工具</strong>标注，黄色代表生词，绿色代表动词短语，蓝色代表专有名词，橘色代表熟词僻义，等等。</em></li>
+<li><em>对于句子来说，用<strong>underline工具</strong>标注，红色代表这个句子是长难句，我读起来非常费劲，蓝色代表它是带给我思考的句子，橙色则是写的很美的句子，等等。</em></li>
+</ul>
+<p>这一套标注的流程在我的调教以及软件功能加持下是非常流畅高效的，PDF Experts的普通版就足够使用，完全不必要付费，我曾经尝试过很多款pdf工具，Experts是最令我满意的，page view、bookmark 以及各种标注工具都兼具颜值和效率；而Eudic能将你查词的<strong>操作成本和频次降至最低</strong>。以一个生词为例，pencil选中，copy然后屏幕右侧的词典中就会自动为你查找该单词（如果你复制的是句子也可以即时翻译），然后点右上角五角星根据你的设计将该单词收录进<strong>Eudic生词本</strong>的对应类别。</p>
+<p>值得一提的是，Eudic一定要搭配<a href="https://zhuanlan.zhihu.com/p/115242261"><strong>外部词典</strong></a>导入使用，我选的是一本朗文和一本柯林斯，很多时候读单词的<strong>英英解释</strong>更有利于你理解单词的真正意思和在此语境下的用法。另外，对于每篇文章新认识的单词（此时应该已经列在生词本中），我都会加入到像是<strong>墨墨背单词</strong>这类App中，利用它们的算法帮助我后续强化巩固记忆。</p>
+<p>到这里有的人可能会讲，</p>
+<p><strong>Q</strong>：这样阅读不累吗？</p>
+<p><strong>A</strong>：是的，加上本身这类阅读我选的文章也普遍偏长，如果像是The New Yorker的一篇文章的话，一天读两个小时也要连续读上三四天才可以读完，但是就像我说的，这类阅读模式不仅仅是为了获取信息本身设计的，它是对于语言<strong>读写能力的全方位提高</strong>。就像上面source中讲到，这样纯粹高水平的英文原版材料，每一次精读整理都是对文章里丰富的信息量和语言点的榨取，每一次读完都是你语言潜修道路上的又一次小精进。</p>
+<p><strong>Q</strong>：这样的标注、划分、收录你未来真的会再翻出来看吗？</p>
+<p><strong>A</strong>：老实说，每一次读完归档的文章安安静静地陈列在文件夹里，我确实没有一次回头打开他们review。就像我之前听过的一种论调，一些人觉得：稍后读、收藏和摘录其实都是<strong>伪需求</strong>，存起来的文章（稍后读、或标记为想读），基本不会读，收藏起来的文章，也几乎不会看第二遍。我觉得有一定道理，但是我觉得，在你坚持阅读之前，你需要一些仪式感来帮助你养成这个习惯，或者说你需要一些印记来证明你读过，你有在吸收、有在感受，所以<strong>我觉得阅读的同时进行标注是必要的</strong>（或许你拿着pencil划着文本读会读的更认真也说不定）。就像你看到一个写得很优美的句子，我忍不住把它标注出来，纵使我未来再也不会回头翻看我这一处标注，标注那一刻的反馈强化了我的阅读体验，这就足够了。另外收录也必不可少， 看着文件夹里你精读过的文章序号慢慢变大，真的是一笔不小的<strong>成就感</strong>，我甚至为他们在Notion中作了专属的数据库，我们放在下一章Collection中讲。</p>
+<figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/08.png"
+         alt="image"/><figcaption>
+            <p>收录整理</p>
+        </figcaption>
+</figure>
+
+<h3 id="type-2">Type 2</h3>
+<blockquote>
+<p>工具：Bob + Eudic</p>
+</blockquote>
+<h2 id="3-collection">3. Collection</h2>
 ]]></content>
 		</item>
 		
