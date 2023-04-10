@@ -11,7 +11,7 @@
 <meta itemprop="description" content="关于在M1 Mac 上安装部署PDI(kettle) 前言 截止我编写这篇笔记之时，Kettle并没有原生支持M1，所以本文大致思路是使用Rosetta"><meta itemprop="datePublished" content="2021-07-10T16:47:33+08:00" />
 <meta itemprop="dateModified" content="2021-07-10T16:47:33+08:00" />
 <meta itemprop="wordCount" content="1326"><meta itemprop="image" content="https://picsum.photos/1920/1080/?random">
-<meta itemprop="keywords" content="Exploring," /><meta property="og:title" content="「Archive」Running Pentaho Data Integration on Mac bigSur (M1)" />
+<meta itemprop="keywords" content="Problem Solved," /><meta property="og:title" content="「Archive」Running Pentaho Data Integration on Mac bigSur (M1)" />
 <meta property="og:description" content="关于在M1 Mac 上安装部署PDI(kettle) 前言 截止我编写这篇笔记之时，Kettle并没有原生支持M1，所以本文大致思路是使用Rosetta" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://colemei.github.io/posts/blog2/" /><meta property="og:image" content="https://picsum.photos/1920/1080/?random" /><meta property="article:section" content="posts" />
@@ -83,7 +83,7 @@
 <h2 id="安装步骤">安装步骤<a href="#安装步骤" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
 <ol>
 <li>
-<h4 id="配置rosetta-terminal强制在intel模式下运行shell">配置Rosetta Terminal（强制在Intel模式下运行shell）<a href="#配置rosetta-terminal强制在intel模式下运行shell" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h4>
+<h3 id="配置rosetta-terminal强制在intel模式下运行shell">配置Rosetta Terminal（强制在Intel模式下运行shell）<a href="#配置rosetta-terminal强制在intel模式下运行shell" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
 <blockquote>
 <p>参考 <a href="https://cutecoder.org/software/run-command-line-apple-silicon/">https://cutecoder.org/software/run-command-line-apple-silicon/</a></p>
 </blockquote>
@@ -110,7 +110,7 @@
 </ol>
 </li>
 <li>
-<h4 id="安装-homebrew">安装 Homebrew<a href="#安装-homebrew" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h4>
+<h3 id="安装-homebrew">安装 Homebrew<a href="#安装-homebrew" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
 <blockquote>
 <p>在arm64架构中 我们需要做两种Homebrew的安装</p>
 <blockquote>
@@ -143,7 +143,7 @@
 </ol>
 </li>
 <li>
-<h4 id="配置-java环境">配置 java环境<a href="#配置-java环境" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h4>
+<h3 id="配置-java环境">配置 java环境<a href="#配置-java环境" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
 <blockquote>
 <p>这里需要对应Kettle和JDK 版本的对应关系 非常严格</p>
 <p><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog2/01.png" alt=""></p>
@@ -165,14 +165,14 @@
 <p>所以 version 一定是要 <strong>1.8.xxx</strong>  还请注意自己的版本对应关系</p>
 </li>
 <li>
-<h4 id="下载kettle">下载Kettle<a href="#下载kettle" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h4>
+<h3 id="下载kettle">下载Kettle<a href="#下载kettle" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
 <blockquote>
 <p>官方下载地址：https://sourceforge.net/projects/pentaho/files/</p>
 </blockquote>
 <p>点击选择需要的版本 → client-tools → 点击<strong>pdi-ce-xxxxxx.zip</strong>文件下载解压即可</p>
 </li>
 <li>
-<h4 id="启动kettle">启动Kettle<a href="#启动kettle" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h4>
+<h3 id="启动kettle">启动Kettle<a href="#启动kettle" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
 <p>通过终端进入解压后得到的**/data-integration**目录，</p>
 <p>输入命令<code>sh spoon.sh</code> 等待自动启动即可（时间可能较长）</p>
 <p><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog2/03.png" alt="启动Kettle"></p>
@@ -242,7 +242,7 @@
 			<hr class="post-end">
 			<footer class="post-info">
 				<p>
-					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://colemei.github.io/tags/exploring">Exploring</a></span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://colemei.github.io/tags/problem-solved">Problem Solved</a></span>
 				</p>
 				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>1326 Words</p>
 				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2021-07-10 16:47 &#43;0800</p>
@@ -255,7 +255,11 @@
     <li><a href="#前言">前言</a></li>
     <li><a href="#安装步骤">安装步骤</a>
       <ul>
-        <li></li>
+        <li><a href="#配置rosetta-terminal强制在intel模式下运行shell">配置Rosetta Terminal（强制在Intel模式下运行shell）</a></li>
+        <li><a href="#安装-homebrew">安装 Homebrew</a></li>
+        <li><a href="#配置-java环境">配置 java环境</a></li>
+        <li><a href="#下载kettle">下载Kettle</a></li>
+        <li><a href="#启动kettle">启动Kettle</a></li>
       </ul>
     </li>
     <li><a href="#可能出现的问题">可能出现的问题</a></li>

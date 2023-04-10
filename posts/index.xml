@@ -15,8 +15,11 @@
 			<pubDate>Sun, 09 Apr 2023 21:44:18 +0800</pubDate>
 			
 			<guid>https://colemei.github.io/posts/blog5/</guid>
-			<description></description>
-			<content type="html"><![CDATA[]]></content>
+			<description>Description：这是My Reading Flow （For English Source）系列博客的第三篇</description>
+			<content type="html"><![CDATA[<blockquote>
+<p><em>Description：这是My Reading Flow （For English Source）系列博客的<strong>第三篇</strong></em></p>
+</blockquote>
+]]></content>
 		</item>
 		
 		<item>
@@ -25,9 +28,12 @@
 			<pubDate>Sun, 09 Apr 2023 21:37:52 +0800</pubDate>
 			
 			<guid>https://colemei.github.io/posts/blog4/</guid>
-			<description>在上一节中讲完了有关如何收集信息的事情，下面我们回到阅读本身。我将我的阅读分为两种，不过思来想去，还是觉得不能简单划分为精读和粗读这样泾渭分</description>
-			<content type="html"><![CDATA[<p>在上一节中讲完了有关如何收集信息的事情，下面我们回到阅读本身。我将我的阅读分为两种，不过思来想去，还是觉得不能简单划分为精读和粗读这样泾渭分明的简单定义，因为其实我读的都挺认真的。可能从阅读的目的或者说是侧重点来讲会更好，第一种阅读是偏向于英语语料的积累和语感的培养，另一种则是以信息的获取为首要目的的阅读。</p>
-<h3 id="type-1">Type 1</h3>
+			<description>Description：这是My Reading Flow （For English Source）系列博客的第二篇 在上一节中讲完了有关如何获取信息，下面我们回到阅读本身。我大致将</description>
+			<content type="html"><![CDATA[<blockquote>
+<p><em>Description：这是My Reading Flow （For English Source）系列博客的<strong>第二篇</strong></em></p>
+</blockquote>
+<p>在上一节中讲完了有关如何获取信息，下面我们回到阅读本身。我大致将我的阅读分为两种，不过思来想去，还是觉得不能简单划分为精读和粗读这样泾渭分明的简单定义，因为其实我读的都挺认真的。可能从阅读的目的或者说是侧重点来讲会更好，第一种阅读是偏向于语料的积累和提高语言的赏析能力，另一种则是以信息的获取为首要目的的阅读。</p>
+<h2 id="type-1">Type 1</h2>
 <blockquote>
 <p>工具：PDF Expert + Eudic</p>
 </blockquote>
@@ -49,20 +55,20 @@
 <li><em>比如对于词汇来说，用<strong>highlight工具</strong>标注，黄色代表生词，绿色代表动词短语，蓝色代表专有名词，橘色代表熟词僻义，等等。</em></li>
 <li><em>对于句子来说，用<strong>underline工具</strong>标注，红色代表这个句子是长难句，我读起来非常费劲，蓝色代表它是带给我思考的句子，橙色则是写的很美的句子，等等。</em></li>
 </ul>
-<p>这一套标注的流程在我的调教以及软件功能加持下是非常流畅高效的，PDF Expert的普通版就足够使用，完全不必要付费，我曾经尝试过很多款pdf工具，Expert是最令我满意的，page view、bookmark 以及各种标注工具都兼具颜值和效率；而<a href="https://www.eudic.net/v4/en/app/eudic">Eudic</a>能将你查词的<strong>操作成本和频次降至最低</strong>。以一个生词为例，pencil选中，copy然后屏幕右侧的词典中就会自动为你查找该单词（如果你复制的是句子也可以即时翻译），然后点右上角五角星根据你的设计将该单词收录进<strong>Eudic生词本</strong>的对应类别。</p>
-<p>值得一提的是，Eudic一定要搭配<a href="https://zhuanlan.zhihu.com/p/115242261"><strong>外部词典</strong></a>导入使用，我选的是一本朗文和一本柯林斯，很多时候读单词的<strong>英英解释</strong>更有利于你理解单词的真正意思和在此语境下的用法。另外，对于每篇文章新认识的单词（此时应该已经列在生词本中），我都会加入到像是<strong>墨墨背单词</strong>这类App中，利用它们的算法帮助我后续强化巩固记忆。</p>
+<p>这一套标注的流程在我的调教以及软件功能加持下是非常流畅高效的。PDF Expert的普通版就足够使用，完全不必要付费，我曾经尝试过很多款pdf工具，Expert是最令我满意的，page view、bookmark 以及各种标注工具都兼具颜值和效率；而<a href="https://www.eudic.net/v4/en/app/eudic">Eudic</a>能将你查词的<strong>操作成本和频次降至最低</strong>。以一个生词为例，pencil选中，copy然后屏幕右侧的词典中就会自动为你查找该单词（如果你复制的是句子也可以即时翻译），然后点右上角五角星根据你的设计将该单词收录进<strong>Eudic生词本</strong>的对应类别。</p>
+<p>值得一提的是，Eudic一定要搭配<a href="https://zhuanlan.zhihu.com/p/115242261"><strong>外部词典</strong></a>导入使用，我选的是一本朗文和一本柯林斯，很多时候读单词的<strong>英英解释</strong>更有利于你理解单词的真正意思和在此语境下的用法，也记得更牢。另外，对于每篇文章新认识的单词（此时应该已经列在生词本中），我都会加入到像是<strong>墨墨背单词</strong>这类App中，利用它们的算法帮助我后续强化巩固记忆。</p>
 <p>到这里有的人可能会讲，</p>
 <p><strong>Q</strong>：这样阅读不累吗？</p>
 <p><strong>A</strong>：是的，加上本身这类阅读我选的文章也普遍偏长，如果像是The New Yorker的一篇文章的话，一天读两个小时也要连续读上三四天才可以读完，但是就像我说的，这类阅读模式不仅仅是为了获取信息本身设计的，它是对于语言<strong>读写能力的全方位提高</strong>。就像上面source中讲到，这样纯粹高水平的英文原版材料，每一次精读整理都是对文章里丰富的信息量和语言点的榨取，每一次读完都是你语言潜修道路上的又一次小精进。</p>
 <p><strong>Q</strong>：这样的标注、划分、收录你未来真的会再翻出来看吗？</p>
-<p><strong>A</strong>：老实说，每一次读完归档的文章安安静静地陈列在文件夹里，我确实没有一次回头打开他们review。就像我之前听过的一种论调，一些人觉得：稍后读、收藏和摘录其实都是<strong>伪需求</strong>，存起来的文章（稍后读、或标记为想读），基本不会读，收藏起来的文章，也几乎不会看第二遍。我觉得有一定道理，但是我觉得，在你坚持阅读之前，你需要一些仪式感来帮助你养成这个习惯，或者说你需要一些印记来证明你读过，你有在吸收、有在感受，所以<strong>我觉得阅读的同时进行标注是必要的</strong>（或许你拿着pencil划着文本读会读的更认真也说不定）。就像你看到一个写得很优美的句子，我忍不住把它标注出来，纵使我未来再也不会回头翻看我这一处标注，标注那一刻的反馈强化了我的阅读体验，这就足够了。另外收录也必不可少， 看着文件夹里你精读过的文章序号慢慢变大，真的是一笔不小的<strong>成就感</strong>，我甚至为他们在Notion中作了专属的数据库，我们放在下一章Collection中讲。</p>
+<p><strong>A</strong>：老实说，每一次读完归档的文章安安静静地陈列在文件夹里，我确实没有一次回头打开他们review。就像我之前听过的一种论调，一些人觉得：稍后读、收藏和摘录其实都是<strong>伪需求</strong>，存起来的文章（稍后读、或标记为想读），基本不会读，收藏起来的文章，也几乎不会看第二遍。我觉得有一定道理，但是换个角度想，在你能真正做到坚持阅读之前，需要一些仪式感来帮助你养成这个习惯，或者说你需要一些印记来证明你读过，你有在吸收、有在感受。所以<strong>我觉得阅读的同时进行标注是必要的</strong>（或许你拿着pencil划着文本读会读的更认真也说不定）。就像你看到一个写得很优美的句子，我忍不住把它标注出来，纵使将来再也不会回头翻看这一处标注，标注那一刻的反馈强化了我的阅读体验，这就足够了。另外收录也必不可少， 看着文件夹里你精读过的文章序号慢慢变大，真的是一笔不小的<strong>成就感</strong>，我甚至为他们在Notion中作了专属的数据库，我们放在下一章Collection中讲。</p>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/08.png"
          alt="image"/><figcaption>
             <p>收录整理</p>
         </figcaption>
 </figure>
 
-<h3 id="type-2">Type 2</h3>
+<h2 id="type-2">Type 2</h2>
 <blockquote>
 <p>工具：Bob  + Eudic + PopClip(可选)</p>
 </blockquote>
@@ -70,7 +76,7 @@
 <p>其实，这种阅读方式如果将文本材料换成中文（母语）的版本，似乎我并不需要介绍或是分享什么，它遍布在我们从小到大的日常阅读当中，我们打开一篇文章，只是因为我们对文章的领域或内容感兴趣，目的并不在于提升某种语言能力，我们只是饥渴地想要从纷繁的大千世界中获取讯息，更新我们对事物的认知，试着多去了解一点什么。我一直觉得，<strong>求知欲</strong>就像是性欲、求生欲一样，是人类一种最原始的欲望。</p>
 <p>于是，当用这种方式去尝试阅读英文信息源时，就自然而然产生了两个基本问题：</p>
 <ol>
-<li><em>如何寻找我感兴趣的信息？（在Source部分中简单作了介绍）</em></li>
+<li><em>如何寻找我感兴趣的信息？（在Source部分中简单作了简单介绍）</em></li>
 <li><em>如何轻松地看懂一篇文章？</em></li>
 </ol>
 <p>接下来就讲讲第二个问题中一些我的心得与经验。</p>
@@ -87,15 +93,15 @@
 <p>可以看到屏幕大致分为了<strong>三个区域</strong>：</p>
 <ol>
 <li>
-<p><em>文章主体在中间，为我在Apple news+中挑选的文章</em></p>
+<p><em>文章主体在中间，是我在Apple news+中挑选的文章</em></p>
 </li>
 <li>
 <p><em>查词区域在左</em></p>
-<p><em>查词功能由<a href="https://www.eudic.net/v4/en/app/eudic">Eudic</a>中，老朋友了，Type1中有介绍，其自带的鼠标自动取词功能实现，按住contrl（win则是ctrl，键位可自行在偏好设置中修改），将鼠标指针定位在你想要查询的单词上即可完成取词，</em></p>
+<p><em>查词功能由<a href="https://www.eudic.net/v4/en/app/eudic">Eudic</a>中（老朋友了，Type1中有介绍）其自带的鼠标自动取词功能实现，按住contrl（win则是ctrl，键位可自行在偏好设置中修改），将鼠标指针定位在你想要查询的单词上即可完成取词，</em></p>
 </li>
 <li>
 <p><em>翻译语段的区域在右</em></p>
-<p><em>翻译语段功能由<a href="https://bobtranslate.com/">Bob</a>实现，它是一款 macOS 平台的翻译和 OCR 软件，鼠标划过选中需要翻译的文本，按下划词翻译快捷键（默认 ⌥ + D）即可翻译，你可以在Bob中配置不同的翻译引擎，我选择的是<a href="https://www.deepl.com/zh/translator">DeepL</a>（毕竟是号称全世界最准确的翻译软件），并辅助以Google 和 Open AI的translation作为参考</em></p>
+<p><em>翻译功能由<a href="https://bobtranslate.com/">Bob</a>实现，它是一款 macOS 平台的翻译和 OCR 软件，鼠标划过选中需要翻译的文本，按下划词翻译快捷键（默认 ⌥ + D）即可翻译，你可以在Bob中配置不同的翻译引擎，我选择的是<a href="https://www.deepl.com/zh/translator">DeepL</a>（毕竟是号称全世界最准确的翻译软件），并辅助以Google 和 Open AI的translation作为参考</em></p>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/10.png"
             alt="image"/><figcaption>
                <p>customize翻译引擎</p>
@@ -108,7 +114,7 @@
 <blockquote>
 <p>小Tips：记得调整到合适的位置后就可以选择将悬浮窗口pin住固定，且Bob中可以调整其每次被唤出时所处的默认位置。</p>
 </blockquote>
-<p>这样一来，我<strong>操作的频次</strong>变得非常低，这能最大化降低我对于原始翻译方案下频繁又恼人的查询操作的反感，以免其负反馈于阅读本身，将外文信息阅读的体验尽量靠近于母语阅读。同时这套工具的搭配使用不受限于选择何种阅读器，无论是News+，Mail，<a href="https://reederapp.com/">Reeder</a>（我在用的一款Rss阅读器）还是直接在Chrome中阅读，它都能很好的帮助我完成阅读。</p>
+<p>这样一来，我查询<strong>操作的频次</strong>变得非常低，这能最大化降低我对于原始翻译方案下频繁又恼人的查询操作的反感，以免其负反馈于阅读体验本身，将外文信息阅读的体验尽量靠近于母语阅读。同时这套工具的搭配使用不受限于选择何种阅读器，无论是News+，Mail，<a href="https://reederapp.com/">Reeder</a>（我在用的一款RSS阅读器）还是直接在Chrome中阅读，它都能很好的帮助我完成阅读。</p>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/11.png"
          alt="image"/><figcaption>
             <p>在Chrome中阅读</p>
@@ -138,7 +144,17 @@
         </figcaption>
 </figure>
 
-<h3 id="小结">小结</h3>
+<h2 id="小结">小结</h2>
+<p>两种阅读模式，侧重点不同，工具不同，甚至是操作平台都不同，（前者主要在pad上完成，后者则主要在mac上阅读），但也有共通之处：</p>
+<ul>
+<li>
+<p><em>使阅读尽可能专注于阅读本身，用优雅流畅的程式化将其他琐碎弱化。</em></p>
+</li>
+<li>
+<p><em>尽可能读完后留下些什么。即时是type 2的阅读中，每一次查词操作，也会将生词星标，仿照type 1进行后续的记忆。</em></p>
+</li>
+</ul>
+<p>总的来说，利用各种效率工具插件打磨并适配你的专属阅读流本身就是一件非常自我且没有止境的事，我相当乐在其中。</p>
 ]]></content>
 		</item>
 		
@@ -148,17 +164,20 @@
 			<pubDate>Thu, 06 Apr 2023 10:18:11 +0800</pubDate>
 			
 			<guid>https://colemei.github.io/posts/blog3/</guid>
-			<description>首先，第一节中，我们来聊聊信息的来源，开门见山，我获取英文信息的渠道基本如下： 杂志报刊 Newsletter 其他(Reddit, Youtube etc.) 杂志报刊 如果你选的是一些比较</description>
-			<content type="html"><![CDATA[<p>首先，第一节中，我们来聊聊信息的来源，开门见山，我获取英文信息的渠道基本如下：</p>
+			<description>Description：这是My Reading Flow （For English Source）系列博客的第一篇 首先，第一节中，我们来聊聊信息的来源。开门见山，我获取英文信息的</description>
+			<content type="html"><![CDATA[<blockquote>
+<p><em>Description：这是My Reading Flow （For English Source）系列博客的<strong>第一篇</strong></em></p>
+</blockquote>
+<p>首先，第一节中，我们来聊聊信息的来源。开门见山，我获取英文信息的渠道基本如下：</p>
 <ul>
 <li><em>杂志报刊</em></li>
 <li><em>Newsletter</em></li>
-<li><em>其他(Reddit, Youtube etc.)</em></li>
+<li><em>其他(独立blog, Reddit, Youtube etc.)</em></li>
 </ul>
-<h3 id="杂志报刊">杂志报刊</h3>
+<h2 id="杂志报刊">杂志报刊</h2>
 <p>如果你选的是一些比较有名气的journal&amp;magzine，那么从这一渠道获取的信息大多质量非常高，文章语言表达也非常地道得体，但同时<strong>比较难啃</strong>。毕竟文章都是出自名社名家之手，相比于阅读本身，对于我们来说可能更难的是如何找到方便易获取的信息源。当然，直接到感兴趣的报刊官网去订阅电子版无疑是最稳定可靠的，但同时价格不菲。那么除了这种方法，我是如何获取到每一期最新的issue呢？</p>
 <p>以我订阅Apple News作时间节点大致可分为两个阶段</p>
-<h5 id="阶段1"><strong>阶段1</strong></h5>
+<h3 id="阶段1"><strong>阶段1</strong></h3>
 <figure class="right"><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/01.png"
          alt="image"/><figcaption>
             <p>分享频道</p>
@@ -175,8 +194,8 @@
 <li><em><a href="https://t.me/sharingte">The Economist Sharing Channel</a></em></li>
 <li><em><a href="https://plink.anyfeeder.com/">RSS 合集</a></em></li>
 </ul>
-<h5 id="阶段2">阶段2</h5>
-<p>由于去年年末我终于订阅了垂涎已久的<strong>Apple One</strong>美区全家桶，其中包含的Apple News（以下简称News）无疑是我使用频率最高的增值服务，它相当于是一个各大报刊杂志的<strong>聚合平台</strong>，加持着像是For you的算法推荐和Edito&rsquo;s Pick的信息精炼这样的功能。</p>
+<h3 id="阶段2">阶段2</h3>
+<p>在去年的末尾我终于订阅了垂涎已久的<strong>Apple One</strong>美区全家桶，其中包含的Apple News（以下简称News）无疑是我使用频率最高的增值服务，它相当于是一个各大报刊杂志的<strong>聚合平台</strong>，加持着像是For you的算法推荐和Edito&rsquo;s Pick的信息精炼这样的功能。</p>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/02.png"
          alt="image"/><figcaption>
             <p>News+ Menu</p>
@@ -199,17 +218,18 @@
 <li><em>National Geographic</em></li>
 <li><em>World Soccer</em></li>
 </ol>
-<p>总之，我觉得News算是非常不错的信息源，它对信息作<strong>索引和分类聚合</strong>，让你可以主动选择自己感兴趣的信息，取百家之所长，而不像上一阶段有赖于别人分享的被动获取，且专注一两家报社造成视角局限。更多的在这里就不详细介绍了，感兴趣的朋友可以移步这里 <a href="https://www.apple.com/apple-news/">News+</a>，试一试<strong>Try 1 month for free</strong>.</p>
-<h3 id="newsletter">Newsletter</h3>
+<p>总之，我觉得News算是非常不错的信息源，它对信息作<strong>索引和分类聚合</strong>，让你可以主动选择自己感兴趣的信息，取百家之所长，而不像上一阶段有赖于别人分享的被动获取，且专注一两家报社造成视角局限。</p>
+<p>值得一提的是News只包含在Apple美区的服务中，开通且使用有诸多门槛，适合稍微爱折腾一些的朋友，更多的在这里就不详细介绍了，擅用搜索引擎即可。感兴趣的朋友也可以移步官网 <a href="https://www.apple.com/apple-news/">News+</a>，试一试<strong>Try 1 month for free</strong>.</p>
+<h2 id="newsletter">Newsletter</h2>
 <p>相比于在News上读社论报道，在这里我更喜欢阅读的多是一些“流水账”，他们读起来非常轻松有趣。</p>
-<p>有的是一些作者的一周见闻，大部分是<strong>链接推荐型</strong>，里面有作者觉得不错的书籍，有趣的网站，新鲜的App资讯，甚至是搞笑的GIF或是Overheard on Twitter。它们不是长篇大论的文章，而是一个个链接配上简短说明，所以可以算作是别人已经帮我筛选过一遍的信息索引。update一下在世界上另外一个角落的人们的近况，看看他身边最近发生了什么，<strong>见字如面</strong>，慢慢的这些newsletter的作者就成为了你的某种朋友一样的存在。</p>
+<p>有的是一些作者的一周见闻，大部分是<strong>链接推荐型</strong>，里面有作者觉得不错的书籍，有趣的网站，新鲜的App资讯，甚至是搞笑的GIF或是Overheard on Twitter。它们不是长篇大论的文章，而是一个个链接配上简短说明，所以可以算作是别人已经帮我筛选过一遍的信息索引。就像是每周update一下在世界上另外一个角落的人们的近况，看看他们最近有什么新奇的发现，身边最近发生了什么。<strong>见字如面</strong>，慢慢的这些newsletter的作者就成为了你的某种朋友一样的存在。</p>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/04.png"
          alt="image"/><figcaption>
             <p>链接推荐型Newsletter</p>
         </figcaption>
 </figure>
 
-<p>另一些则几乎不能用语言来对他们定义类型，毕竟newsletter的种类太多了，作者想分享什么都可以，只要刚好有读者感兴趣，一拍即合。比如我订阅了一个频道专门分享<strong>Desk Setup</strong>的，看着别人把自己的桌面打造的整齐干净，工作环境风格统一真是一件非常舒服的事情。你一定会种草很多产品的 我确信(ｰ ｰ;)</p>
+<p>另一些则几乎不能用语言来对他们定义类型，毕竟newsletter的种类太多了，作者想分享什么都可以，只要刚好有读者感兴趣，一拍即合。比如我订阅了一个频道专门分享<strong>Desk Setup</strong>的，看着别人把自己的桌面打造的整齐干净，工作环境风格统一真是一件非常舒服又享受的事情。你一定会种草很多产品，然后开始日复一日地折腾改造你自己的桌面。相信我(ｰ ｰ;)</p>
 <p>下面附上一些我在订阅的newsletter，因为他们的更新日期都不一样，我是选择每周六把一周囤起来的newsletter<strong>集中</strong>浏览阅读。</p>
 <ul>
 <li><em><a href="https://www.workspaces.xyz/">Workspaces</a></em></li>
@@ -218,16 +238,17 @@
 <li><em><a href="https://weichen.zhubai.love/">生活奇旅</a></em></li>
 <li><em><a href="https://bestxtools.zhubai.love/">好工具周刊</a></em></li>
 </ul>
-<h5 id="一些想法">一些想法</h5>
+<h3 id="碎碎念">碎碎念</h3>
 <figure class="right"><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/05.png"
          alt="image"/><figcaption>
             <p>Mail Rules</p>
         </figcaption>
 </figure>
 
-<p>总觉得自己一直不能很有效的把Mail这个工具利用起来，知道newsletter也是最近一两年的事情。不知道是不是国内外的差异，newsletter就像是Podcast一样在国内<strong>不温不火</strong>，基本还是以RSS订阅独立blog的方式为主，也有可能是我还没有进入工作的原因吧，邮箱的利用率本身也不高，我们学院导师甚至不知道有<strong>学生邮箱stu.edu</strong>这个东西的存在，还是我自己去信息中心申请开通的。</p>
-<p>总的来讲，Mail无论是工具本身还是其所链接的生态都是<strong>高度稳定可靠</strong>的，拿Mac自带的Mail客户端讲，利用好它的规则工具可以很方便的自动化你的收件流程，像我的newsletter通过发件地址的识别都会通过规则自动进入一个单独的分组，这样就不会与其他乱七八糟的邮件混在一起。另外善用<strong>标记</strong>(Flag)和<strong>移动</strong>(Move)也算是一个小技巧吧。</p>
-<h3 id="小结">小结</h3>
+<p>总觉得自己一直不能很有效的把Mail这个工具利用起来，知道newsletter也是最近几年的事情。不知道是不是国内外的差异，两年前，newsletter就像是Podcast一样在国内<strong>不温不火</strong>（不过都在慢慢发展，已经有了不小的起色），基本还是以RSS订阅独立blog的方式为主。另外就是可能有我还没有进入工作的原因吧，邮箱的利用率本身也不高，我们学院导师甚至不知道有<strong>学生邮箱stu.edu</strong>这个东西的存在，还是我自己去信息中心申请开通的。</p>
+<p>总的来讲，Mail无论是工具本身还是其所链接的生态都是<strong>高度稳定可靠</strong>的，拿Mac自带的Mail客户端讲，利用好它的规则工具（RULES）可以很方便的自动化你的收件流程，像我的newsletter通过发件地址的识别都会通过规则自动进入一个单独的分组，这样就不会与其他乱七八糟的邮件混在一起。另外擅用<strong>标记</strong>(Flag)和<strong>移动</strong>(Move)也算是一个小技巧吧。</p>
+<h2 id="小结">小结</h2>
+<p>总的来说，以上两种source提供了我算是比较正式的那一类阅读的信息材料。当然，可以被称之为信息的太多了，逛逛油管，刷刷推，这些时候我也在获取信息，好像也没什么值得讲的，不过这些都作为我日常生活中的英语元素，多多益善嘛。就像自作安慰的把电子设备的操作系统语言都换成了英语，人为的给自己增添一点儿语言环境，聊胜于无吧。</p>
 ]]></content>
 		</item>
 		
@@ -265,7 +286,7 @@
 <h2 id="安装步骤">安装步骤</h2>
 <ol>
 <li>
-<h4 id="配置rosetta-terminal强制在intel模式下运行shell">配置Rosetta Terminal（强制在Intel模式下运行shell）</h4>
+<h3 id="配置rosetta-terminal强制在intel模式下运行shell">配置Rosetta Terminal（强制在Intel模式下运行shell）</h3>
 <blockquote>
 <p>参考 <a href="https://cutecoder.org/software/run-command-line-apple-silicon/">https://cutecoder.org/software/run-command-line-apple-silicon/</a></p>
 </blockquote>
@@ -292,7 +313,7 @@
 </ol>
 </li>
 <li>
-<h4 id="安装-homebrew">安装 Homebrew</h4>
+<h3 id="安装-homebrew">安装 Homebrew</h3>
 <blockquote>
 <p>在arm64架构中 我们需要做两种Homebrew的安装</p>
 <blockquote>
@@ -325,7 +346,7 @@
 </ol>
 </li>
 <li>
-<h4 id="配置-java环境">配置 java环境</h4>
+<h3 id="配置-java环境">配置 java环境</h3>
 <blockquote>
 <p>这里需要对应Kettle和JDK 版本的对应关系 非常严格</p>
 <p><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog2/01.png" alt=""></p>
@@ -347,14 +368,14 @@
 <p>所以 version 一定是要 <strong>1.8.xxx</strong>  还请注意自己的版本对应关系</p>
 </li>
 <li>
-<h4 id="下载kettle">下载Kettle</h4>
+<h3 id="下载kettle">下载Kettle</h3>
 <blockquote>
 <p>官方下载地址：https://sourceforge.net/projects/pentaho/files/</p>
 </blockquote>
 <p>点击选择需要的版本 → client-tools → 点击<strong>pdi-ce-xxxxxx.zip</strong>文件下载解压即可</p>
 </li>
 <li>
-<h4 id="启动kettle">启动Kettle</h4>
+<h3 id="启动kettle">启动Kettle</h3>
 <p>通过终端进入解压后得到的**/data-integration**目录，</p>
 <p>输入命令<code>sh spoon.sh</code> 等待自动启动即可（时间可能较长）</p>
 <p><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog2/03.png" alt="启动Kettle"></p>
