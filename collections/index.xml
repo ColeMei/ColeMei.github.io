@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Collections on Cole World</title>
-		<link>hicole.top/collections/</link>
+		<link>https://colemei.github.io/collections/</link>
 		<description>Recent content in Collections on Cole World</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Thu, 23 Mar 2023 16:20:45 +0800</lastBuildDate>
-		<atom:link href="hicole.top/collections/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://colemei.github.io/collections/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>赠予今年的大学毕业生</title>
-			<link>hicole.top/collections/collection2/</link>
+			<link>https://colemei.github.io/collections/collection2/</link>
 			<pubDate>Thu, 23 Mar 2023 16:20:45 +0800</pubDate>
 			
-			<guid>hicole.top/collections/collection2/</guid>
+			<guid>https://colemei.github.io/collections/collection2/</guid>
 			<description>作者：胡适 这一两个星期里，各地的大学都有毕业的班次，都有很多的毕业生离开学校去开始他们的成人事业。学生的生活是一种享有特殊优待的生活，不妨幼</description>
 			<content type="html"><![CDATA[<p>作者：胡适</p>
 <p>这一两个星期里，各地的大学都有毕业的班次，都有很多的毕业生离开学校去开始他们的成人事业。学生的生活是一种享有特殊优待的生活，不妨幼稚一点，不妨吵吵闹闹，社会都能纵容他们，不肯严格的要他们负行为的责任。现在他们要撑起自己的肩膀来挑他们自己的担子了。在这个国难最紧急的年头，他们的担子真不轻！ 我们祝他们的成功，同时也不忍不依据我们自己的经验，赠与他们几句送行的赠言——虽未必是救命毫毛，也许作个防身的锦囊罢！</p>
@@ -38,10 +38,10 @@
 		
 		<item>
 			<title>独处是一种能力</title>
-			<link>hicole.top/collections/collection1/</link>
+			<link>https://colemei.github.io/collections/collection1/</link>
 			<pubDate>Thu, 16 Feb 2023 15:32:50 +0800</pubDate>
 			
-			<guid>hicole.top/collections/collection1/</guid>
+			<guid>https://colemei.github.io/collections/collection1/</guid>
 			<description>作者：周国平 人们往往把交往看作一种能力，却忽略了独处也是一种能力，并且在一定意义上是比交往更为重要的一种能力。反过来说，不擅交际固然是一种遗</description>
 			<content type="html"><![CDATA[<p>作者：周国平</p>
 <p>人们往往把交往看作一种能力，却忽略了独处也是一种能力，并且在一定意义上是比交往更为重要的一种能力。反过来说，不擅交际固然是一种遗憾，不耐孤独也未尝不是一种很严重的缺陷。</p>
