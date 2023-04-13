@@ -20,16 +20,16 @@
 <p><em>Description：这是My Reading Flow （For English Source）系列博客的<strong>第三篇</strong></em></p>
 </blockquote>
 <p>讲完了如何阅读，下面来聊聊整条flow的最后一个环节，<strong>Collection</strong> — 对读过的文章进行收录。其实在第二部分Read中，我当时就谈及了一些关于收录的事情。</p>
-<p>但是必须要说的是，Collection<strong>并不是</strong>一个阅读流中必不可少的环节。像有很多朋友觉得这些都是伪需求，疲于形式。但就像我在之前的Q&amp;A中谈到的一点我的理解（很主观）：纵使你真的不会再想起这些你收录的内容（当然，你有很大的可能会有用得到它们的时候，它相当于为你读过的信息加上索引，方便你回顾、引用，这是它的<strong>实际意义</strong>），收录行为也会为你的阅读带来完整性，完整性又带来仪式感，这些都潜移默化地强化着你的阅读体验，帮助你日复一日养成阅读的习惯，明晰阅读的意义（算是种<strong>精神意义</strong>吧）。</p>
-<p>而特别对于像我本人这种有点<a href="https://zh.wikipedia.org/zh-tw/%E8%97%8F%E4%B9%A6%E7%99%96">收藏癖</a>的情况，看着满满当当的database，真的很爽啊拜托！</p>
+<p>但是必须要说的是，Collection<strong>并不是</strong>一个阅读流中必不可少的环节。像有很多朋友觉得这些不过是伪需求，疲于形式。但就像我在之前的Q&amp;A中谈到的一点我的理解（很主观）：纵使你真的不会再想起这些你收录的内容（当然，你有很大的可能会有用得到它们的时候，它相当于为你读过的信息加上索引，方便你回顾、引用，这是它的<strong>实际意义</strong>），收录行为也会为你的阅读带来完整性，完整性又带来仪式感，这些都潜移默化地强化着你的阅读体验，帮助你日复一日养成阅读的习惯，明晰阅读的意义（算是种<strong>精神意义</strong>吧）。</p>
+<p>而特别对于像我本人这种有点<a href="https://zh.wikipedia.org/zh-tw/%E8%97%8F%E4%B9%A6%E7%99%96">收藏癖</a>的情况，看着被填得满满当当的database，真的很爽啊拜托！</p>
 <p>在明确了Collection并不是一项可有可无的工作后，来聊聊我是怎样做收录的。</p>
 <p>对于前文谈到的两种不同的阅读模式，我分别在<strong>Notion</strong>中建了两个不同的<strong>Database</strong>来实现信息的收录。大名鼎鼎的<a href="https://www.notion.so/product?fredir=1">Notion</a>自然不必多介绍，它特有的database功能很适合完成这项工作：选择为数据库添加不同种类的view可以清晰地展示信息，利用好Filter和Sort两种工具可以帮助我很好的完成对信息的检索和二次利用。</p>
+<p>当设计并部署好适合自己阅读的数据库后，这其实算是件<strong>一劳永逸</strong>的事情，你后期需要做的只是把文章填加进来就好。</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/O8qdvSxDYNY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<p>当设计并部署好适合自己阅读的数据库后，这其实算是件<strong>一劳永逸</strong>的事情，你后期需要做的只是把文章填加进来就好。</p>
 <h2 id="database1--for-reading-type1">Database1  (For Reading Type1)</h2>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog5/01.png"
          alt="image"/><figcaption>
@@ -51,7 +51,7 @@
 <li><em>From：文章出处</em></li>
 <li><em>Date：开始阅读的日期</em></li>
 <li><em>Category：文章分类</em></li>
-<li><em>Words：link单词汇总的pdf文件（pdf是由Eudic的生词本自动生成的）</em></li>
+<li><em>Words：link单词汇总的pdf文件（由Eudic的生词本自动生成）</em></li>
 </ol>
 </li>
 </ul>
@@ -67,7 +67,7 @@
 <li><em>Table</em>
 <ul>
 <li><em>Sort by Date</em></li>
-<li><em>Filer by Category &amp; From</em></li>
+<li><em>Filter by Category &amp; From</em></li>
 </ul>
 </li>
 <li><em>Board</em>
@@ -80,9 +80,9 @@
 </ul>
 <h3 id="一些说明">一些说明</h3>
 <p>总的来说，Database1设计的比较简单，仅保留了一些便于Filter和Sort的Properties。其中Category Board可以将自己阅读涉猎的领域作简单可视化，看看自己对哪些领域比较感兴趣，又对哪些方面的信息比较抗拒。</p>
-<p>而阅读中对于语料的积累，都以pdf文件的方式存档在对应文件夹内：</p>
+<p>而阅读中对于语料的积累，都以pdf文件的方式将文章本体存档在对应文件夹内：</p>
 <ul>
-<li><em>标注过的文章本体，裁切后以统一格式命（收录在文件夹：外刊精读）</em></li>
+<li><em>标注过的文章本体，裁切后以统一格式命名（收录在文件夹：外刊精读）</em></li>
 </ul>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog5/04.png"
          alt="image"/><figcaption>
@@ -165,7 +165,7 @@
 
 <p>相信我，搭配Gallery View可以将你的Collection打造得<strong>井然有序且质感十足</strong>。</p>
 <h2 id="小结">小结</h2>
-<p>其实很多阅读工具中都自带一些类似的收录功能，像是Apple News+中的Saved Story和Hisroty、Reeder中的Star和Add to Read Later，甚至是Chrome中的Bookmark，Mail中的Flag。但是我还是更喜欢将不同平台，不同种类篇幅的信息作统一的收录，像是我在Notion的database中做的这样。</p>
+<p>其实很多阅读工具中都自带一些类似的收录功能，像是Apple News+中的Saved Story和Hisroty、Reeder中的Star和Add to Read Later，甚至是Chrome中的Bookmark，Mail中的Flag。但是我还是更喜欢将不同平台，不同种类篇幅的信息作统一的收录，像是我在Notion的database中做的这样，毕竟术业有专攻嘛。</p>
 <h1 id="hahahugoshortcode-s11-hbhb">
 
 <p style="text-align:center">完结撒花～🎉</p>
@@ -183,7 +183,7 @@
 			<content type="html"><![CDATA[<blockquote>
 <p><em>Description：这是My Reading Flow （For English Source）系列博客的<strong>第二篇</strong></em></p>
 </blockquote>
-<p>在上一节中讲完了有关如何获取信息，下面我们回到阅读本身。我大致将我的阅读分为两种，不过思来想去，还是觉得不能简单划分为精读和粗读这样泾渭分明的简单定义，因为其实我读的都挺认真的。可能从阅读的目的或者说是侧重点来讲会更好，第一种阅读是偏向于语料的积累和提高语言的赏析能力，另一种则是以信息的获取为首要目的的阅读。</p>
+<p>在上一节中讲完了有关如何获取信息，下面我们回到阅读本身。我大致将我的阅读分为两种，不过思来想去，还是觉得不能直接划分为精读和粗读这样泾渭分明的简单定义，因为其实我读的都挺认真的。可能从阅读的目的或者说是侧重点来讲会更好，第一种阅读是偏向于语料的积累和提高语言的赏析能力，另一种则是以信息的获取为首要目的的阅读。</p>
 <h2 id="type-1">Type 1</h2>
 <blockquote>
 <p>工具：PDF Expert + Eudic</p>
@@ -191,28 +191,28 @@
 <p>在这一类阅读中，材料通常是从各大报刊杂志中挑选出的某一篇文章，从体裁上看，news较少，一般是<strong>比较感兴趣的领域的Article</strong>，文章篇幅较长。首先在当期issue的PDF文件中剪切出文章篇幅所在的那几页另存为一个新的PDF文件，以「 精读外刊 序号 + 文章标题 」的方式命名，然后在<a href="https://pdfexpert.com/">PDF Expert</a>中打开，<strong>iPad分屏，左三分之二屏幕是文章，右三分之一是Eudic词典</strong>，然后就可以开始阅读啦。</p>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog4/01.jpeg"
          alt="image"/><figcaption>
-            <p>如何阅读</p>
+            <p>如何阅读 01</p>
         </figcaption>
 </figure>
 
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog4/02.jpeg"
          alt="image"/><figcaption>
-            <p>如何阅读</p>
+            <p>如何阅读 02</p>
         </figcaption>
 </figure>
 
-<p>在阅读的过程中，我会对各种词汇句子作<strong>勾画标注和分类区分</strong>:</p>
+<p>在阅读的过程中，我会对各种词汇句子作<strong>勾画标注和归类区分</strong>:</p>
 <ul>
 <li><em>比如对于词汇来说，用<strong>highlight工具</strong>标注，黄色代表生词，绿色代表动词短语，蓝色代表专有名词，橘色代表熟词僻义，等等。</em></li>
-<li><em>对于句子来说，用<strong>underline工具</strong>标注，红色代表这个句子是长难句，我读起来非常费劲，蓝色代表它是带给我思考的句子，橙色则是写的很美的句子，等等。</em></li>
+<li><em>对于句子来说，用<strong>underline工具</strong>标注，红色代表这个句子是长难句（我读起来非常费劲），蓝色代表它是带给我思考的句子，橙色则是写的很美的句子，等等。</em></li>
 </ul>
-<p>这一套标注的流程在我的调教以及软件功能加持下是非常流畅高效的。PDF Expert的普通版就足够使用，完全不必要付费，我曾经尝试过很多款pdf工具，Expert是最令我满意的，page view、bookmark 以及各种标注工具都兼具颜值和效率；而<a href="https://www.eudic.net/v4/en/app/eudic">Eudic</a>能将你查词的<strong>操作成本和频次降至最低</strong>。以一个生词为例，pencil选中，copy然后屏幕右侧的词典中就会自动为你查找该单词（如果你复制的是句子也可以即时翻译），然后点右上角五角星根据你的设计将该单词收录进<strong>Eudic生词本</strong>的对应类别。</p>
+<p>这一套标注的流程在我的悉心调教以及软件功能加持下的运转是非常流畅高效的。PDF Expert的普通版就足够使用，完全不必要付费，我曾经尝试过很多款pdf工具，Expert是最令我满意的，page view、bookmark 以及各种标注工具都兼具颜值和效率；而<a href="https://www.eudic.net/v4/en/app/eudic">Eudic</a>能将你查词的<strong>操作成本和频次降至最低</strong>。以一个生词为例，pencil选中，copy然后屏幕右侧的词典中就会自动为你查找该单词（如果你复制的是句子也可以即时翻译），然后点右上角五角星根据你的设计将该单词收录进<strong>Eudic生词本</strong>的对应类别。</p>
 <p>值得一提的是，Eudic一定要搭配<a href="https://zhuanlan.zhihu.com/p/115242261"><strong>外部词典</strong></a>导入使用，我选的是一本朗文和一本柯林斯，很多时候读单词的<strong>英英解释</strong>更有利于你理解单词的真正意思和在此语境下的用法，也记得更牢。另外，对于每篇文章新认识的单词（此时应该已经列在生词本中），我都会加入到像是<strong>墨墨背单词</strong>这类App中，利用它们的算法帮助我后续强化巩固记忆。</p>
 <p>到这里有的人可能会讲，</p>
 <p><strong>Q</strong>：这样阅读不累吗？</p>
 <p><strong>A</strong>：是的，加上本身这类阅读我选的文章也普遍偏长，如果像是The New Yorker的一篇文章的话，一天读两个小时也要连续读上三四天才可以读完，但是就像我说的，这类阅读模式不仅仅是为了获取信息本身设计的，它是对于语言<strong>读写能力的全方位提高</strong>。就像上面source中讲到，这样纯粹高水平的英文原版材料，每一次精读整理都是对文章里丰富的信息量和语言点的榨取，每一次读完都是你语言潜修道路上的又一次小精进。</p>
 <p><strong>Q</strong>：这样的标注、划分、收录你未来真的会再翻出来看吗？</p>
-<p><strong>A</strong>：老实说，每一次读完归档的文章安安静静地陈列在文件夹里，我确实没有一次回头打开他们review。就像我之前听过的一种论调，一些人觉得：稍后读、收藏和摘录其实都是<strong>伪需求</strong>，存起来的文章（稍后读、或标记为想读），基本不会读，收藏起来的文章，也几乎不会看第二遍。我觉得有一定道理，但是换个角度想，在你能真正做到坚持阅读之前，需要一些仪式感来帮助你养成这个习惯，或者说你需要一些印记来证明你读过，你有在吸收、有在感受。所以<strong>我觉得阅读的同时进行标注是必要的</strong>（或许你拿着pencil划着文本读会读的更认真也说不定）。就像你看到一个写得很优美的句子，我忍不住把它标注出来，纵使将来再也不会回头翻看这一处标注，标注那一刻的反馈强化了我的阅读体验，这就足够了。另外收录也必不可少， 看着文件夹里你精读过的文章序号慢慢变大，真的是一笔不小的<strong>成就感</strong>，我甚至为他们在Notion中作了专属的数据库，我们放在下一章Collection中讲。</p>
+<p><strong>A</strong>：老实说，每一次读完归档的文章安安静静地陈列在文件夹里，我确实没有一次回头打开他们review。就像我之前听过的一种论调，一些人觉得：稍后读、收藏和摘录其实都是<strong>伪需求</strong>，存起来的文章（稍后读、或标记为想读），基本不会读，收藏起来的文章，也几乎不会看第二遍。我觉得有一定道理，但是换个角度想，在你能真正做到坚持阅读之前，需要一些仪式感来帮助你养成这个习惯，或者说你需要一些印记来证明你读过，你有在吸收、有在感受。所以<strong>我觉得阅读的同时进行标注是必要的</strong>（或许你拿着pencil划着文本读会读的更认真也说不定）。就像看到一个写得很优美的句子时，我忍不住把它标注出来，纵使将来再也不会回头翻看这一处标注，标注那一刻的反馈强化了我的阅读体验，这就足够了。另外收录也必不可少，看着文件夹里你精读过的文章序号慢慢变大，真的是一笔不小的<strong>成就感</strong>，我甚至为他们在Notion中作了专属的数据库，我们放在下一章Collection中讲。</p>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog4/03.png"
          alt="image"/><figcaption>
             <p>收录整理</p>
@@ -225,13 +225,13 @@
 </blockquote>
 <p>讲完了上一种较为繁琐和费时的阅读方式后，接下来要介绍的这种阅读方式则要轻松许多，他的目的简单纯粹：<strong>获取信息、读懂信息</strong>。</p>
 <p>其实，这种阅读方式如果将文本材料换成中文（母语）的版本，似乎我并不需要介绍或是分享什么，它遍布在我们从小到大的日常阅读当中，我们打开一篇文章，只是因为我们对文章的领域或内容感兴趣，目的并不在于提升某种语言能力，我们只是饥渴地想要从纷繁的大千世界中获取讯息，更新我们对事物的认知，试着多去了解一点什么。我一直觉得，<strong>求知欲</strong>就像是性欲、求生欲一样，是人类一种最原始的欲望。</p>
-<p>于是，当用这种方式去尝试阅读英文信息源时，就自然而然产生了两个基本问题：</p>
+<p>于是，当用这种方式和思维去尝试阅读英文信息源时，就自然而然产生了两个基本问题：</p>
 <ol>
 <li><em>如何寻找我感兴趣的信息？（在Source部分中简单作了简单介绍）</em></li>
 <li><em>如何轻松地看懂一篇文章？</em></li>
 </ol>
-<p>接下来就讲讲第二个问题中一些我的心得与经验。</p>
-<p>可能很多人都有阅读外文信息的需求，无论是专业需要，还是兴趣使然。<strong>这并不是一个“外国的月亮比较圆”的问题</strong>，从全世界的角度看，我们每一个人都只是偏安一隅地被身边的信息所围绕着。而与此同时，世界上各个角落都在演绎着自己的精彩故事，用当地语言写出的报道无疑更地道也更靠谱，能更好地带你了解事情的全貌。</p>
+<p>接下来会就第二个问题分享一些我的心得与经验。</p>
+<p>可能很多人都有阅读外文信息的需求，无论是专业需要，还是兴趣使然。<strong>这并不是一个“外国的月亮比较圆”的问题</strong>，从全世界的角度看，我们每一个人都只是偏安一隅地被身边的信息所围绕着。而与此同时，世界上各个角落都在演绎着自己的精彩故事，用当地语言写出的报道无疑更地道也更靠谱，能更好地还原并带你了解事情的全貌。</p>
 <p>走出舒适圈的概念喊了很久，获取信息也要走出自己的圈子，如何从<a href="https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF/12661227">信息茧房</a>中破壁而出值得被广泛讨论，就拿我最近读的一篇文章为例，讲了一个<a href="https://theconversation.com/forget-the-conspiracies-15-minute-cities-will-free-us-to-improve-our-mental-health-and-wellbeing-200823?utm_source=densediscovery&amp;utm_medium=email&amp;utm_campaign=newsletter-issue-232">15-minute cities</a>的概念，还真的挺有趣，而这很难从我身边打听到。而且互联网上日趋活跃的Online writting的发达生态下，创作者们维护、更新、推送自己的独立blog、newsletter、podacast，甚至是Reddit的一篇帖子，Twitter上的一条tweet都可以成为我们的<strong>信息源</strong>。</p>
 <p>以上好像是在说“<strong>我为什么要去阅读外文信息</strong>”的问题，这好像可以是一个蛮宏大的选题，就先简单说到这里吧，还是回到如何阅读本身。既然有了需求，即：<strong>流畅轻松</strong>地看懂外文信息。那么，为什么会看不懂呢？无非是单词不认识，单词组合在一起的句子或段落读不懂，那把他们放到翻译软件中翻译不就好了吗？这当然不用我说，重点是如何让这个look-up的过程尽可能变得流畅、轻松、优雅。</p>
 <p>下面这张图是我阅读时的<strong>屏幕截图</strong>，以阅读Apple News的文章为例来说明我是如何阅读的。</p>
@@ -248,11 +248,11 @@
 </li>
 <li>
 <p><em>查词区域在左</em></p>
-<p><em>查词功能由<a href="https://www.eudic.net/v4/en/app/eudic">Eudic</a>中（老朋友了，Type1中有介绍）其自带的鼠标自动取词功能实现，按住contrl（win则是ctrl，键位可自行在偏好设置中修改），将鼠标指针定位在你想要查询的单词上即可完成取词，</em></p>
+<p><em>查词功能由<a href="https://www.eudic.net/v4/en/app/eudic">Eudic</a>中（老朋友了，Type1中有介绍）其自带的鼠标自动取词功能实现，按住contrl（win则是ctrl，键位可自行在偏好设置中修改），将鼠标指针定位在你想要查询的单词上即可完成取词并翻译。</em></p>
 </li>
 <li>
 <p><em>翻译语段的区域在右</em></p>
-<p><em>翻译功能由<a href="https://bobtranslate.com/">Bob</a>实现，它是一款 macOS 平台的翻译和 OCR 软件，鼠标划过选中需要翻译的文本，按下划词翻译快捷键（默认 ⌥ + D）即可翻译，你可以在Bob中配置不同的翻译引擎，我选择的是<a href="https://www.deepl.com/zh/translator">DeepL</a>（毕竟是号称全世界最准确的翻译软件），并辅助以Google 和 Open AI的translation作为参考</em></p>
+<p><em>翻译功能由<a href="https://bobtranslate.com/">Bob</a>实现，它是一款 macOS 平台的翻译和 OCR 软件，鼠标划过并选中需要翻译的文本，按下划词翻译快捷键（默认 ⌥ + D）即可翻译，你可以在Bob中配置不同的翻译引擎，我选择的是<a href="https://www.deepl.com/zh/translator">DeepL</a>（毕竟是号称全世界最准确的翻译软件），并辅助以Google 和 Open AI的translation作为参考</em></p>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog4/05.png"
             alt="image"/><figcaption>
                <p>customize翻译引擎</p>
@@ -261,11 +261,11 @@
 
 </li>
 </ol>
-<p>简而言之，当阅读遇到不认识生词时，我只需要完成两个操作，左手按一下，右手在触控板上完成对单词在文本中的定位，即可完成查词；想知道一段语篇的大意，只需要右手在触摸板上完成对语篇的选取，左手按两个键，即可完成翻译。且2、3的查询结果都是以<strong>悬浮窗口</strong>的形式存在的（如图所示），我可以任意调整窗口的大小和位置，以优雅的方式布局阅读界面。悬浮窗口的好处在于，你不用去操纵分屏，也不用切出你所处的文章窗口，一切操纵都能<strong>专注于你正在阅读的文字四周</strong>。</p>
+<p>简而言之，当阅读遇到不认识的生词时，我只需要完成两个操作，左手按一下，右手在触控板上完成对单词在文本中的定位，即可完成查词；想知道一段语篇的大意，只需要右手在触摸板上完成对语篇的选取，左手按两个键，即可完成翻译。且2、3的查询结果都是以<strong>悬浮窗口</strong>的形式存在的（如图所示），我可以任意调整窗口的大小和位置，以优雅的方式布局阅读界面。悬浮窗口的好处在于，你不用去操纵分屏，也不用切出你所处的文章窗口，一切操纵都能<strong>专注于你正在阅读的文字四周</strong>。</p>
 <blockquote>
 <p>小Tips：记得调整到合适的位置后就可以选择将悬浮窗口pin住固定，且Bob中可以调整其每次被唤出时所处的默认位置。</p>
 </blockquote>
-<p>这样一来，我查询<strong>操作的频次</strong>变得非常低，这能最大化降低我对于原始翻译方案下频繁又恼人的查询操作的反感，以免其负反馈于阅读体验本身，将外文信息阅读的体验尽量靠近于母语阅读。同时这套工具的搭配使用不受限于选择何种阅读器，无论是News+，Mail，<a href="https://reederapp.com/">Reeder</a>（我在用的一款RSS阅读器）还是直接在Chrome中阅读，它都能很好的帮助我完成阅读。</p>
+<p>这样一来，我查询<strong>操作的频次</strong>变得非常低，这能最大化降低我对于原始翻译方案下频繁又恼人的查询操作所带来的反感，以免其负反馈于阅读体验本身，将外文信息阅读的体验尽量向母语阅读靠近。同时这套工具的搭配使用不受限于选择何种阅读器，无论是News+，Mail，<a href="https://reederapp.com/">Reeder</a>（我在用的一款RSS阅读器）还是直接在Chrome中阅读，它都能很好的帮助我完成阅读。</p>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog4/06.png"
          alt="image"/><figcaption>
             <p>在Chrome中阅读</p>
@@ -295,11 +295,11 @@
         </figcaption>
 </figure>
 
-<p>而在阅读的过程中，除了翻译工作，我还会对于文章内容做一些<strong>摘录工作</strong>，用工具<a href="https://pasteapp.io/">Paste</a>实现。Paste是一款Apple生态下的跨设备Clipboard Manager软件，功能强大且UI果味儿十足。</p>
+<p>而在阅读的过程中，除了翻译工作，我还会对于文章内容做一些<strong>摘录工作</strong>，用工具<a href="https://pasteapp.io/">Paste</a>实现。Paste是一款Apple生态下的跨设备Clipboard Manager软件，功能强大且果味儿十足。（我真的体验过很多类似的App，它真的最优雅）</p>
 <blockquote>
 <p><em><strong>Paste</strong></em> lets you keep, search, and organize everything you copy on your Mac, iPhone, and iPad.</p>
 </blockquote>
-<p>阅读时，我会将那些带给我启发和思考的段落复制下来，他们就自动进入了Paste，再利用Paste的Tag功能将段落标记并归入专门的“摘录区域”。等读完文章并将文章收录进database时（会在第三节讲到），按（⌥ + V）将摘录区域的段落再粘贴进文章对应的page并加上自己的一些小结，像是这样：</p>
+<p>阅读时，我会将那些带给我启发和思考的段落复制下来，然后它们就自动进入了Paste，再利用Paste的Tag功能将段落标记并归入专门的“摘录区域”。等读完文章并将文章收录进database时（会在第三节讲到），按（⌥ + V）将摘录区域的段落再粘贴进文章对应的page并加上自己的一些小结，像是这样：</p>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog4/09.png"
          alt="image"/><figcaption>
             <p>Excert in Paste</p>
@@ -307,16 +307,19 @@
 </figure>
 
 <h2 id="小结">小结</h2>
-<p>两种阅读模式，侧重点不同，工具不同，甚至是操作平台都不同，（前者主要在pad上完成，后者则主要在mac上阅读），但也有共通之处：</p>
+<p>两种阅读模式，侧重点不同，工具不同，甚至是操作平台都不同，（前者主要在pad上完成，后者则主要在mac上阅读），但也有许多共通之处：</p>
 <ul>
 <li>
-<p><em>阅读也可以优雅而流畅。使阅读尽可能专注于阅读本身，用合适的工具将阅读程式化，将其他琐碎边缘化。</em></p>
+<p><em>阅读可以优雅而流畅。</em></p>
 </li>
 <li>
-<p><em>尽可能读完后留下些什么。即时是type 2的阅读中，每一次查词操作，也会将生词星标，仿照type 1进行后续的记忆。</em></p>
+<p><em>使阅读尽可能专注于阅读本身。用合适的工具将阅读程式化，将其他琐碎边缘化。</em></p>
+</li>
+<li>
+<p><em>尽可能读完后留下些什么。即时是type 2的阅读中，每一次查词操作，我也会将生词星标，仿照type 1进行后续的记忆。</em></p>
 </li>
 </ul>
-<p>总的来说，利用各种效率工具插件打磨并适配你的专属阅读流本身就是一件非常自我且乐在其中的事，我可能会就这样一直tinker下去。</p>
+<p>总的来说，利用各种效率工具和插件打磨并适配你的专属阅读流本身就是一件非常自我且乐在其中的事，我可能会就这样一直tinker下去。^o^</p>
 <h1 id="hahahugoshortcode-s10-hbhb">
 
 <p style="text-align:center">下期再见～👋</p>
@@ -341,7 +344,7 @@
 <li><em>其他(独立blog, Reddit, Youtube etc.)</em></li>
 </ul>
 <h2 id="杂志报刊">杂志报刊</h2>
-<p>如果你选的是一些比较有名气的journal&amp;magzine，那么从这一渠道获取的信息大多质量非常高，文章语言表达也非常地道得体，但同时<strong>比较难啃</strong>。毕竟文章都是出自名社名家之手，相比于阅读本身，对于我们来说可能更难的是如何找到方便易获取的信息源。当然，直接到感兴趣的报刊官网去订阅电子版无疑是最稳定可靠的，但同时价格不菲。那么除了这种方法，我是如何获取到每一期最新的issue呢？</p>
+<p>如果你选的是一些比较有名气的journal&amp;magzine，那么从这一渠道获取的信息大多质量非常高，文章语言表达也非常地道得体，但同时<strong>比较难啃</strong>。毕竟文章都是出自名社名家之手，相比于阅读本身，对于我们来说可能更难的是如何找到方便易获取的信息源。当然，直接到感兴趣的报刊官网去订阅电子版无疑是最稳定可靠的方式，但同时价格不菲。那么除了这种方法，我是如何获取到每一期最新的issue呢？</p>
 <p>以我订阅Apple News作时间节点大致可分为两个阶段</p>
 <h3 id="阶段1"><strong>阶段1</strong></h3>
 <figure class="right"><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/01.png"
@@ -350,7 +353,7 @@
         </figcaption>
 </figure>
 
-<p>我是在一些国内外善良的朋友们的<strong>分享频道</strong>中获取到的，那时主要是把每一期的The New Yorker和Economists找来翻翻，其中感兴趣的文章语篇裁切出来做精读，获取途径大概如下（不过一定要<strong>仔细甄别</strong>分享目的和盈利目的的不同群组，有很多借口卖课的公众号）</p>
+<p>我是在一些国内外善良的朋友们的<strong>分享频道</strong>中获取到的，那时主要是把每一期的The New Yorker和The Economist找来翻翻，其中感兴趣的文章语篇裁切出来做精读，获取途径大概如下（不过一定要<strong>仔细甄别</strong>分享目的和盈利目的不同群组，有很多借口卖课的公众号混杂其中）</p>
 <ol>
 <li><em>Telegram群组</em></li>
 <li><em>RSS订阅</em></li>
@@ -361,7 +364,7 @@
 <li><em><a href="https://plink.anyfeeder.com/">RSS 合集</a></em></li>
 </ul>
 <h3 id="阶段2">阶段2</h3>
-<p>在去年的末尾我终于订阅了垂涎已久的<strong>Apple One</strong>美区全家桶，其中包含的Apple News（以下简称News）无疑是我使用频率最高的增值服务，它相当于是一个各大报刊杂志的<strong>聚合平台</strong>，加持着像是For you的算法推荐和Edito&rsquo;s Pick的信息精炼这样的功能。</p>
+<p>在去年的末尾我终于订阅了垂涎已久的<strong>Apple One</strong>美区全家桶，其中包含的Apple News（以下简称News）无疑是我使用频率最高的增值服务，它相当于是一个各大报刊杂志的<strong>信息聚合平台</strong>，加持着像是For you的算法推荐和Edito&rsquo;s Pick的信息精炼这样的功能。</p>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/02.png"
          alt="image"/><figcaption>
             <p>News+ Menu</p>
@@ -384,19 +387,19 @@
 <li><em>National Geographic</em></li>
 <li><em>World Soccer</em></li>
 </ol>
-<p>总之，我觉得News算是非常不错的信息源，它对信息作<strong>索引和分类聚合</strong>，让你可以主动选择自己感兴趣的信息，取百家之所长，而不像上一阶段有赖于别人分享的被动获取，且专注一两家报社造成视角局限。</p>
+<p>总之，我觉得News算是非常不错的信息源，它对信息作<strong>索引和分类聚合</strong>，让你可以主动选择自己感兴趣的信息，取百家之所长，而不像上一阶段有赖于别人分享的被动获取，且专注一两家报社容易造成视角局限。</p>
 <p>值得一提的是News只包含在Apple美区的服务中，开通且使用有诸多门槛，适合稍微爱折腾一些的朋友，更多的在这里就不详细介绍了，擅用搜索引擎即可。感兴趣的朋友也可以移步官网 <a href="https://www.apple.com/apple-news/">News+</a>，试一试<strong>Try 1 month for free</strong>.</p>
 <h2 id="newsletter">Newsletter</h2>
 <p>相比于在News上读社论报道，在这里我更喜欢阅读的多是一些“流水账”，他们读起来非常轻松有趣。</p>
-<p>有的是一些作者的一周见闻，大部分是<strong>链接推荐型</strong>，里面有作者觉得不错的书籍，有趣的网站，新鲜的App资讯，甚至是搞笑的GIF或是Overheard on Twitter。它们不是长篇大论的文章，而是一个个链接配上简短说明，所以可以算作是别人已经帮我筛选过一遍的信息索引。就像是每周update一下在世界上另外一个角落的人们的近况，看看他们最近有什么新奇的发现，身边最近发生了什么。<strong>见字如面</strong>，慢慢的这些newsletter的作者就成为了你的某种朋友一样的存在。</p>
+<p>有的是一些作者的一周见闻，大部分是<strong>链接推荐型</strong>，里面有作者觉得不错的书籍，有趣的网站，新鲜的App资讯，甚至是搞笑的GIF或是Overheard on Twitter。它们不是长篇大论的文章，而是一个个链接配上简短说明，所以可以算作是别人已经帮我筛选过一遍的信息索引。就像是每周update一下在世界上另外一个角落的人们的近况，看看他们最近有什么新发现，身边又发生了哪些奇闻逸事。<strong>见字如面</strong>，慢慢的这些newsletter的作者就成为了你的某种朋友一样的存在。</p>
 <figure><img src="https://raw.githubusercontent.com/ColeMei/Picgo/master/blog3/04.png"
          alt="image"/><figcaption>
             <p>链接推荐型Newsletter</p>
         </figcaption>
 </figure>
 
-<p>另一些则几乎不能用语言来对他们定义类型，毕竟newsletter的种类太多了，作者想分享什么都可以，只要刚好有读者感兴趣，一拍即合。比如我订阅了一个频道专门分享<strong>Desk Setup</strong>的，看着别人把自己的桌面打造的整齐干净，工作环境风格统一真是一件非常舒服又享受的事情。你一定会种草很多产品，然后开始日复一日地折腾改造你自己的桌面。相信我(ｰ ｰ;)</p>
-<p>下面附上一些我在订阅的newsletter，因为他们的更新日期都不一样，我是选择每周六把一周囤起来的newsletter<strong>集中</strong>浏览阅读。</p>
+<p>另一些则几乎不能用语言来对他们定义类型，毕竟newsletter的种类太多了，作者想分享什么都可以，只要刚好有读者感兴趣，一拍即合。比如我订阅了一个频道专门分享<strong>Desk Setup</strong>的，看着别人把自己的桌面打造的整齐干净，工作环境风格统一真是一件非常舒服又享受的事情。你一定会种草很多产品，然后陷入日复一日地折腾改造你自己的桌面的漩涡中，痛并快乐着。</p>
+<p>下面附上一部分我在订阅的newsletter，因为他们的更新日期都不一样，我是选择每周六把一周囤起来的newsletter<strong>集中</strong>浏览阅读。</p>
 <ul>
 <li><em><a href="https://www.workspaces.xyz/">Workspaces</a></em></li>
 <li><em><a href="https://www.densediscovery.com/">Dense Discovery</a></em></li>
@@ -414,7 +417,7 @@
 <p>总觉得自己一直不能很有效的把Mail这个工具利用起来，知道newsletter也是最近几年的事情。不知道是不是国内外的差异，两年前，newsletter就像是Podcast一样在国内<strong>不温不火</strong>（不过都在慢慢发展，已经有了不小的起色），基本还是以RSS订阅独立blog的方式为主。另外就是可能有我还没有进入工作的原因吧，邮箱的利用率本身也不高，我们学院导师甚至不知道有<strong>学生邮箱stu.edu</strong>这个东西的存在，还是我自己去信息中心申请开通的。</p>
 <p>总的来讲，Mail无论是工具本身还是其所链接的生态都是<strong>高度稳定可靠</strong>的，拿Mac自带的Mail客户端讲，利用好它的规则工具（RULES）可以很方便的自动化你的收件流程，像我的newsletter通过发件地址的识别都会通过规则自动进入一个单独的分组，这样就不会与其他乱七八糟的邮件混在一起。另外擅用<strong>标记</strong>(Flag)和<strong>移动</strong>(Move)也算是一个小技巧吧。</p>
 <h2 id="小结">小结</h2>
-<p>总的来说，以上两种source提供了我算是比较正式的那一类阅读的信息材料。当然，可以被称之为信息的太多了，逛逛油管，刷刷推，这些时候我也在获取信息，好像也没什么值得讲的，不过这些都作为我日常生活中的英语元素，多多益善嘛。就像自作安慰的把电子设备的操作系统语言都换成了英语，人为的给自己增添一点儿语言环境，聊胜于无吧。</p>
+<p>总的来说，以上两种source提供了我算是比较正式的那一类阅读的信息材料。当然，可以被称之为信息的太多了，逛逛油管，刷刷推，这些时候我也在获取信息，但好像可供分享的话题不多，不过这些也都作为我日常生活中的英语元素，多多益善嘛。就像自作安慰的把电子设备的操作系统语言都换成了英语，人为的给自己增添一点儿语言环境，聊胜于无吧。</p>
 <h1 id="hahahugoshortcode-s5-hbhb">
 
 <p style="text-align:center">下期再见～👋</p>
