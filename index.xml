@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 23 May 2023 11:32:10 +0800</lastBuildDate><atom:link href="https://hicole.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2023 10:40:43 +0800</lastBuildDate><atom:link href="https://hicole.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trip to Inner Mongolia</title>
+      <link>https://hicole.top/posts/blog7/</link>
+      <pubDate>Thu, 22 Jun 2023 10:40:43 +0800</pubDate>
+      
+      <guid>https://hicole.top/posts/blog7/</guid>
+      <description>Intro 遥想上次和朋友结伴出行还是刚高考完的时候，去到了美丽的山城重庆。如今，四年的大学生活也临近尾声，四年间大家虽曾有无数个idea，诸如：拿到</description>
+    </item>
+    
     <item>
       <title>Acknowledgement</title>
       <link>https://hicole.top/posts/blog6/</link>
@@ -90,15 +99,6 @@ More About I consider myself a geeky person, but I don&amp;rsquo;t want to defin
       
       <guid>https://hicole.top/posts/blog1/</guid>
       <description>Hello Hugo! The world’s fastest framework for building websites</description>
-    </item>
-    
-    <item>
-      <title>「Archive」Running Pentaho Data Integration on Mac bigSur (M1)</title>
-      <link>https://hicole.top/posts/blog2/</link>
-      <pubDate>Sat, 10 Jul 2021 16:47:33 +0800</pubDate>
-      
-      <guid>https://hicole.top/posts/blog2/</guid>
-      <description>关于在M1 Mac 上安装部署PDI(kettle) 前言 截止我编写这篇笔记之时，Kettle并没有原生支持M1，所以本文大致思路是使用Rosetta</description>
     </item>
     
   </channel>
