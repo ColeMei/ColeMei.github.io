@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hicole.top/collections/collection5/</loc>
-    <lastmod>2023-08-27T14:29:23+08:00</lastmod>
-  </url><url>
     <loc>https://hicole.top/</loc>
+    <lastmod>2023-09-11T23:50:36+08:00</lastmod>
+  </url><url>
+    <loc>https://hicole.top/posts/</loc>
+    <lastmod>2023-09-11T23:50:36+08:00</lastmod>
+  </url><url>
+    <loc>https://hicole.top/tags/problem-solving/</loc>
+    <lastmod>2023-09-11T23:50:36+08:00</lastmod>
+  </url><url>
+    <loc>https://hicole.top/tags/rss/</loc>
+    <lastmod>2023-09-11T23:50:36+08:00</lastmod>
+  </url><url>
+    <loc>https://hicole.top/posts/blog10/</loc>
+    <lastmod>2023-09-11T23:50:36+08:00</lastmod>
+  </url><url>
+    <loc>https://hicole.top/tags/</loc>
+    <lastmod>2023-09-11T23:50:36+08:00</lastmod>
+  </url><url>
+    <loc>https://hicole.top/collections/collection5/</loc>
     <lastmod>2023-08-27T14:29:23+08:00</lastmod>
   </url><url>
     <loc>https://hicole.top/collections/</loc>
     <lastmod>2023-08-27T14:29:23+08:00</lastmod>
   </url><url>
     <loc>https://hicole.top/tags/gallery/</loc>
-    <lastmod>2023-08-27T14:29:23+08:00</lastmod>
-  </url><url>
-    <loc>https://hicole.top/tags/</loc>
     <lastmod>2023-08-27T14:29:23+08:00</lastmod>
   </url><url>
     <loc>https://hicole.top/tags/books-review/</loc>
@@ -24,9 +36,6 @@
     <lastmod>2023-08-12T16:00:32+08:00</lastmod>
   </url><url>
     <loc>https://hicole.top/tags/politic/</loc>
-    <lastmod>2023-08-12T16:00:32+08:00</lastmod>
-  </url><url>
-    <loc>https://hicole.top/posts/</loc>
     <lastmod>2023-08-12T16:00:32+08:00</lastmod>
   </url><url>
     <loc>https://hicole.top/tags/social/</loc>
@@ -84,9 +93,6 @@
     <lastmod>2023-01-02T14:56:19+08:00</lastmod>
   </url><url>
     <loc>https://hicole.top/posts/blog2/</loc>
-    <lastmod>2021-07-10T16:47:33+08:00</lastmod>
-  </url><url>
-    <loc>https://hicole.top/tags/problem-solving/</loc>
     <lastmod>2021-07-10T16:47:33+08:00</lastmod>
   </url>
 </urlset>
