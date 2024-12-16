@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hicole.me/fr/</loc>
+    <loc>https://colemei.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hicole.me/en/"
+                href="https://colemei.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hicole.me/it/"
+                href="https://colemei.github.io/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hicole.me/fr/"
+                href="https://colemei.github.io/fr/"
                 />
   </url><url>
-    <loc>https://hicole.me/fr/tags/</loc>
+    <loc>https://colemei.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hicole.me/en/tags/"
+                href="https://colemei.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://hicole.me/it/tags/"
+                href="https://colemei.github.io/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hicole.me/fr/tags/"
+                href="https://colemei.github.io/fr/tags/"
                 />
   </url>
 </urlset>
